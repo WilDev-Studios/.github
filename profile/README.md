@@ -3,7 +3,7 @@ We are an independently owned small business based in the Western United States 
 
 ## Purchase Policies
 This repository outlines our business' refund and licensing policies
-> Please read before purchasing any plugin from us
+> Please read before purchasing any plugin from us<br>
 [Purchase Policies](https://www.github.com/WilDev-Studios/Purchase-Policies)
 
 ## Plugins
