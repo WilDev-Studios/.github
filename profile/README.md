@@ -15,5 +15,5 @@ Below are all of our free released plugins (in order of popularity)
 - WilDev.Duties [DISCONTINUED] ([Repository](https://www.github.com/WilDev-Studios/WilDev.Duties))
 
 ## Contact Us
-For inquiries and any important business please email us @ **wildevstudios@gmail.com**<br>
-For bugs, requests, etc. please contact us (and other members) on our [Discord](https://www.discord.gg/4Ggybyy87d)!
+For bugs, requests, etc. please contact us (and other members) on our [Discord](https://www.discord.gg/4Ggybyy87d)<br>
+For inquiries and any important business please email us @ **wildevstudios@gmail.com**
