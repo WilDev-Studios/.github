@@ -13,6 +13,7 @@ Below are all of our free released plugins (in order of popularity)
 - Wild.JoinLeaveMessages ([Repository](https://www.github.com/WilDev-Studios/Wild.JoinLeaveMessages))
 - WilDev.AutoSave ([Repository](https://www.github.com/WilDev-Studios/WilDev.AutoSave))
 - WilDev.Duties [DISCONTINUED] ([Repository](https://www.github.com/WilDev-Studios/WilDev.Duties))
+- WilDev.DeathMessages ([Repository](https://www.github.com/WilDev-Studios/WilDev.DeathMessages))
 
 ## Contact Us
 For bugs, requests, etc. please contact us (and other members) on our [Discord](https://www.discord.gg/4Ggybyy87d)<br>
