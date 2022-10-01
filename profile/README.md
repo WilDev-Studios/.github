@@ -1,7 +1,7 @@
 # Welcome to WilDev Studios
 We are an independently owned small business based in the Western United States that focuses on creating plugins, both general and exclusive, for customers with the people in mind.
 
-## Tutorials
+## Language Tutorials
 Want to learn the basics of some programming languages that we use?
 
 - Python ([Repository](https://www.github.com/WilDev-Studios/Python-Programming))
