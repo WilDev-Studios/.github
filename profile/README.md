@@ -11,8 +11,8 @@ Below are all of our free released plugins (in order of popularity)
 
 - Wild.Announcer ([Repository](https://www.github.com/WilDev-Studios/Wild.Announcer))
 - Wild.JoinLeaveMessages ([Repository](https://www.github.com/WilDev-Studios/Wild.JoinLeaveMessages))
-- WilDev.Duties [DISCONTINUED] ([Repository](https://www.github.com/WilDev-Studios/WilDev.Duties))
 - WilDev.DeathMessages ([Repository](https://www.github.com/WilDev-Studios/WilDev.DeathMessages))
+- WilDev.Duties [DISCONTINUED] ([Repository](https://www.github.com/WilDev-Studios/WilDev.Duties))
 - WilDev.AutoSave ([Repository](https://www.github.com/WilDev-Studios/WilDev.AutoSave))
 
 ## Contact Us
